@@ -1,6 +1,6 @@
 # bootcamp2020Class2
 
-Surge Website URL: http://anasbaigmughal-bootcamp-react-app.surge.sh/
+Surge Website URL: http://anasbaigmughal-react-app.surge.sh/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
